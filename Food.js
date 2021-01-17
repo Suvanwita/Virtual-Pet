@@ -5,13 +5,13 @@ class Food{
     }   
     
     bedroom(){
-        background("Bed Room.png",550,500);
+        background(Bedroom,550,500);
     }
     garden(){
-        background("Garden.png",550,500);
+        background(Garden,550,500);
     }
     washroom(){
-        background("Wash Room.png",550,500);
+        background(Washroom,550,500);
     }
         
     display(){
